@@ -10,5 +10,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/benjamin-espino-285363228/" />][linkedin]
+<b>LinkedIn</b> - https://www.linkedin.com/in/benjamin-espino-285363228/
