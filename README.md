@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin, an <a href="">IT Novice</a>☺</h1>
+<h1>Hi, I'm Benjamin, an <a href="">IT Beginner</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
