@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Bentelligent/osticket-postinstall)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Bentelligent/Active-Directory-VM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Bentelligent/NetworkSecurityGroups)
 
 <h2>🤳Connect with me:</h2>
 <b>LinkedIn</b> - https://www.linkedin.com/in/benjamin-espino-285363228/
